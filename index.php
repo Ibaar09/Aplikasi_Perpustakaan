@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Aplikasi Perpustakaan</title>
+    <title>Aplikasi Perpustakaan</title> 
 
     <!-- Custom fonts for this template-->
     <link href="template/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -15,7 +15,7 @@
         rel="stylesheet">
 
     <!-- Custom styles for this template-->
-    <link href="template/css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="template/css/sb-admin-2.min.css" rel="stylesheet"> 
 
 </head>
 
