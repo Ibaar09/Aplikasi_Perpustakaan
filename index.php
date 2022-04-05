@@ -20,8 +20,8 @@
 </head>
 
 
-<body class="bg-gradient" background="template/10.jpg" style="-webkit-background-size: cover; 
-    -moz-background-size: cover;
+<body class="bg-gradient" background="template/10.jpg" style="-webkit-background-size: cover;    
+    -moz-background-size: cover; 
     -o-background-size: cover;
     background-size: cover;">
 
