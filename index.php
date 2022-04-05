@@ -15,12 +15,12 @@
         rel="stylesheet">
 
     <!-- Custom styles for this template-->
-    <link href="template/css/sb-admin-2.min.css" rel="stylesheet"> 
+    <link href="template/css/sb-admin-2.min.css" rel="stylesheet">  
 
 </head>
 
 
-<body class="bg-gradient" background="template/10.jpg" style="-webkit-background-size: cover;
+<body class="bg-gradient" background="template/10.jpg" style="-webkit-background-size: cover; 
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;">
